@@ -21,7 +21,7 @@ public class DesafioApplication implements CommandLineRunner {
 
 	private void showOrder(Order order) {
 		System.out.printf("Pedido Código: %d%n", order.getCode());
-		System.out.printf("Valor Total: R$%.2f%n", orderService.total(order));
+		System.out.printf("Valor Total: R$%.2f%n\n", orderService.total(order));
 	}
 	
 	@Override
