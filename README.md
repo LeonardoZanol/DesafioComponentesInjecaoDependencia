@@ -36,11 +36,11 @@ Saída esperada no console:
 ## **Como Executar o Projeto** 
 1. Clone o Repositório:
    ```sh
-   git clone https://github.com/seu-usuario/desafio-injecao.git
+   git clone https://github.com/LeonardoZanol/DesafioComponentesInjecaoDependencia
    ```
 2. Acesse a pasta do projeto:
    ```sh
-   cd desafioinjecaodependencia
+   cd DesafioComponentesInjecaoDependencia
    ```
 3. Execute a aplicação:
    ```sh
